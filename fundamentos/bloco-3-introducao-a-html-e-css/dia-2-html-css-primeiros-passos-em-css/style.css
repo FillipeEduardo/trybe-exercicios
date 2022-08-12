@@ -1,0 +1,34 @@
+body {
+    font-size: 16px;
+}
+
+h1 {
+    size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+
+ul {
+    background-color: aqua;
+}
+
+.teste {
+    background-color: chartreuse;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+
+#amarelo {
+    background-color: yellow;
+}
+
+#vermelho {
+    background-color: red;
+}
+
+#marrom {
+    background-color: brown;
+}
