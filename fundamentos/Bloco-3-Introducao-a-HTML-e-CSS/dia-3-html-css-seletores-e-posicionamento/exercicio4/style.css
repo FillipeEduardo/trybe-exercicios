@@ -1,0 +1,37 @@
+ol li {
+    background-color: yellow;
+}
+
+ol li.impar {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+ol li.par {
+    color: green;
+}
+
+.header {
+    color: red;
+}
+
+h1.header {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+.blue {
+    color: blue;
+}
+
+.pink {
+    color: pink;
+}
+
+.allies li:hover{
+    font-weight: 600;
+}
