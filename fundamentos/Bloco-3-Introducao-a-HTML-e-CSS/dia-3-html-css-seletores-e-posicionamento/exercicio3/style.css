@@ -1,8 +1,0 @@
-div:hover {
-    border: 1px solid black;
-}
-
-div:nth-of-type(1){
-    color: aqua;
-}
-
