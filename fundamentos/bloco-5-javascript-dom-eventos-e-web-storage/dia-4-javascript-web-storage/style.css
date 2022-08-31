@@ -1,0 +1,17 @@
+body {
+  transition: linear 0.3;
+}
+
+.darkMode {
+  background-color: black;
+  color: white;
+}
+
+#botaoDarkMode {
+  display: inline-block;
+}
+
+.cabecalho {
+  display: inline-block;
+
+}
